@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+}
+
+h1{
+    margin: 0;
+}
+
+.nav{
+    height: 60px;
+}
+
+.navbar{
+    display: flex;
+}
+
+.btn_kvitto{
+    margin-left: auto;
+}
+
+.main_content{
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
