@@ -11,6 +11,7 @@
   border: none;
   padding: 1rem 3rem;
   font-family: "Fira Sans";
+  font-size: 20px;
 }
 
 .btn_kundvagn {
@@ -46,4 +47,13 @@ img {
 
 h1 {
   font-size: 28px;
+}
+
+p{
+  font-size: 15px;
+}
+
+a{
+  text-decoration: none;
+  margin: 10px;
 }
